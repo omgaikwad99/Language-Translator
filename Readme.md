@@ -1,7 +1,10 @@
-English to German Neural Machine Translation
-This Jupyter notebook trains a sequence-to-sequence neural network to translate text from English to German.
+# English to German Neural Machine Translation
+This Jupyter Notebook trains a sequence-to-sequence neural network to translate text from English to German.
 
-Contents
+### Datasest: [https://www.manythings.org/anki/] 
+You will find many datasets on the above link, out of which you are free to use any. For this project, I have used deu.txt
+
+## Contents
 The notebook contains the following:
 
 Imports TensorFlow and Keras libraries
